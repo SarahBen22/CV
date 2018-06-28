@@ -106,7 +106,7 @@ padding: 15px;
 
 #gal{
   top:40px; left:150 px;
-  background-image: url("gal2.png");
+  background-image: url("sarah.jpg");
   background-repeat: no-repeat;
   position: absolute;
   height: 150px;
@@ -117,7 +117,7 @@ margin-left: 10px;
 
 #music{
   top:150px; left:770 px;
-  background-image: url("music.jpg");
+  background-image: url("Music.jpg");
   background-repeat: no-repeat;
   position: absolute;
   height: 60px;
@@ -167,7 +167,7 @@ margin-left: 10px;
 
 #sport{
   top:270px; left:870 px;
-  background-image: url("sport.jpg");
+  background-image: url("Sport.jpg");
   background-repeat: no-repeat;
   position: absolute;
   height: 60px;
